@@ -19,7 +19,7 @@ Rule summary:
 
 **Files**
 
-- Filenames and directory names are ~PascalCase~, e.g. ~MyFile.cs~.
+- Filenames and directory names are `PascalCase`, e.g. `MyFile.cs`.
 - Where possible the file name should be the same as the name of the main class in the file, e.g. ~MyClass.cs~.
 - In general, prefer one core class per file.
 
